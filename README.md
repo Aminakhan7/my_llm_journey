@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # My LLM Journey
+=======
+<!-- # My LLM Journey
+>>>>>>> 60d1c8a (added read me)
 
 This repository documents my journey of learning Artificial Intelligence, Machine Learning, Deep Learning, and Large Language Models (LLMs), with the goal of understanding how LLMs work and eventually building my own language model.
 
@@ -42,4 +46,4 @@ Currently exploring NumPy to understand how numerical data is represented, manip
 
 To move from understanding the fundamentals of AI to implementing, training, experimenting with, and eventually building my own language model.
 
-This repository is a work in progress, and I will keep updating it as I learn.
+This repository is a work in progress, and I will keep updating it as I learn. -->
